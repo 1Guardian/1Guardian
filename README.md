@@ -19,7 +19,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ---
 ## 📈 Recent Projects
 ### Data Mining Projects
-- KNN Regression: https://github.com/1Guardian/Data-Mining-KNN-Regression
+- [KNN Regression](https://github.com/1Guardian/Data-Mining-KNN-Regression)
 
 ### Conceptual Programming Language Compiler
 
