@@ -31,5 +31,8 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ### Operating System Simulated Components
 
 ### Electron Applications
+- [Opal Web Browser](https://github.com/1Guardian/Opal-Browser)
+- [Multi-Dimensional Learning Activity](https://github.com/1Guardian/Programming-Professions-Project-Group-7)
+- [Software-Soundboard (Request)](https://github.com/1Guardian/Software-Soundboard)
 
 ### Kotlin Applications
