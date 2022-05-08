@@ -22,6 +22,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [KNN Regression](https://github.com/1Guardian/Data-Mining-KNN-Regression)
 - [KNN Density Estimation](https://github.com/1Guardian/Data-Mining-KNN-Density-Estimation-Kernel-Density-Estimation)
 - [Kernel Density Estimation](https://github.com/1Guardian/Data-Mining-KNN-Density-Estimation-Kernel-Density-Estimation)
+- [Voronoi Decision Boundaries](https://github.com/1Guardian/Data-Mining-Decision-Boundaries)
 
 
 
