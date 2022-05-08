@@ -28,8 +28,9 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 
 ### Conceptual Programming Language Compiler
  - [Compiler](https://github.com/1Guardian/Conceptual-Compiler)
+ - 
 ### Operating System Simulated Components
-
+- [Operating System Logging Method](https://github.com/1Guardian/OSS-Logging-Library)
 ### Electron Applications
 - [Opal Web Browser](https://github.com/1Guardian/Opal-Browser)
 - [Multi-Dimensional Learning Activity](https://github.com/1Guardian/Programming-Professions-Project-Group-7)
