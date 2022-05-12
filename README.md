@@ -33,6 +33,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ### Operating System _Simulated_ Components
 - [Operating System Logging Method](https://github.com/1Guardian/OSS-Logging-Library)
 - [Operating System License Manager](https://github.com/1Guardian/OSS-License-Manager)
+- [Operating System Simulated Scheduler](https://github.com/1Guardian/OSS-Simlated-Scheduler)
 
 ### Electron Applications
 - [Opal Web Browser](https://github.com/1Guardian/Opal-Browser)
