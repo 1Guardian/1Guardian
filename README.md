@@ -34,7 +34,6 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [Operating System Logging Method](https://github.com/1Guardian/OSS-Logging-Library)
 - [Operating System License Manager](https://github.com/1Guardian/OSS-License-Manager)
 
-
 ### Electron Applications
 - [Opal Web Browser](https://github.com/1Guardian/Opal-Browser)
 - [Multi-Dimensional Learning Activity](https://github.com/1Guardian/Programming-Professions-Project-Group-7)
@@ -43,6 +42,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ### Kotlin Applications
 - [Front End Design](https://github.com/1Guardian/Kotlin-Friend-List)
 - [Database Query](https://github.com/1Guardian/Kotlin-Database-Query-Implementation)
+- [Weather App](https://github.com/1Guardian/Kotlin-Weather-App/)
 
 ### Image Processing Applications
 
