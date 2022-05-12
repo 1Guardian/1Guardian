@@ -42,6 +42,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 
 ### Kotlin Applications
 - [Front End Design](https://github.com/1Guardian/Kotlin-Friend-List)
+- [Database Query](https://github.com/1Guardian/Kotlin-Database-Query-Implementation)
 
 ### Image Processing Applications
 
