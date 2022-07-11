@@ -52,3 +52,6 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 
 ### Documentation 
 - [Using OpenCV and Unreal](https://github.com/1Guardian/unrealandopencv)
+
+### Breath Linux Drivers/Controllers
+- [ECtool Fan Driver, Services, and Controller](https://github.com/1Guardian/EcToolFanControl)
