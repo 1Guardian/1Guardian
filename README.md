@@ -51,7 +51,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - (Getting uploaded soon)
 
 ### C++ Parallelization and Multithreaded Algorithm
-- [ECtool Fan Driver, Services, and Controller](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
+- [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
 
 ### Documentation 
 - [Using OpenCV and Unreal](https://github.com/1Guardian/unrealandopencv)
