@@ -49,6 +49,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 
 ### Image Processing Applications
 - [Tkinter Image Browser](https://github.com/1Guardian/Simple-Image-Browser)
+- [Image Sampling and Quantization](https://github.com/1Guardian/Image-Sampling-and-Quantization)
 
 ### C++ Parallelization and Multithreaded Algorithm
 - [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
