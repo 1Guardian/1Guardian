@@ -58,6 +58,9 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ### C++ Parallelization and Multithreaded Algorithm
 - [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
 
+### CUDA Applications
+- (Coming soon)
+
 ### Documentation 
 - [Using OpenCV and Unreal](https://github.com/1Guardian/unrealandopencv)
 
