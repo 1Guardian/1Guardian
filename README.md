@@ -53,6 +53,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [Histogram Equalization and Matching](https://github.com/1Guardian/Histogram-Equalization-and-Matching)
 - [Lomographic Filters and Channel Shifting](https://github.com/1Guardian/Lomographic-Filters-and-Lookup-Tables)
 - [Huffman Encoding and Boundary Equalization](https://github.com/1Guardian/Huffman-Encoding-and-Boundary-Equalization)
+- [Integral Image Calculation](https://github.com/1Guardian/Integral-Image)
 
 ### C++ Parallelization and Multithreaded Algorithm
 - [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
