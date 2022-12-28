@@ -62,7 +62,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - (Coming soon)
 
 ### AI/ML Applications
-- [Working on a Neural Network to Play Azul](https://github.com/1Guardian/unrealandopencv)
+- [IN-PROGRESS: Working on a Neural Network to Play Azul](https://github.com/1Guardian/Azul-Playing-Neural-Network/tree/main)
 
 ### Documentation 
 - [Using OpenCV and Unreal](https://github.com/1Guardian/unrealandopencv)
