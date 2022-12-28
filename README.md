@@ -61,6 +61,9 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 ### CUDA Applications
 - (Coming soon)
 
+### AI/ML Applications
+- [Working on a Neural Network to Play Azul](https://github.com/1Guardian/unrealandopencv)
+
 ### Documentation 
 - [Using OpenCV and Unreal](https://github.com/1Guardian/unrealandopencv)
 
