@@ -24,7 +24,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [Kernel Density Estimation](https://github.com/1Guardian/Data-Mining-KNN-Density-Estimation-Kernel-Density-Estimation)
 - [Voronoi Decision Boundaries](https://github.com/1Guardian/Data-Mining-Decision-Boundaries)
 - [Bagging and Boosting](https://github.com/1Guardian/Data-Mining-Bagging)
-- [Naiive Bayes Text Classification](https://github.com/1Guardian/Data-Mining-Text-Classification-Through-Naiive-Bayes)
+- [Naive Bayes Text Classification](https://github.com/1Guardian/Data-Mining-Text-Classification-Through-Naiive-Bayes)
 - [Brute Force Aprori Calculator](https://github.com/1Guardian/DataMining-Aprori-Algorithm-Implementation)
 
 ### Conceptual Programming Language Compiler
