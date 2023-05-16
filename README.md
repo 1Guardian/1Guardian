@@ -54,6 +54,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [Lomographic Filters and Channel Shifting](https://github.com/1Guardian/Lomographic-Filters-and-Lookup-Tables)
 - [Huffman Encoding and Boundary Equalization](https://github.com/1Guardian/Huffman-Encoding-and-Boundary-Equalization)
 - [Integral Image Calculation](https://github.com/1Guardian/Integral-Image)
+- [Frequency Domain Filtering](https://github.com/1Guardian/frequency-domain-filtering)
 
 ### C++ Parallelization and Multithreaded Algorithm
 - [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
