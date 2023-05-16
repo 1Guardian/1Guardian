@@ -58,6 +58,7 @@ I am an avid linux user, although I know my way around Windows as well. I work p
 - [Porter Duff Operators](https://github.com/1Guardian/Porter-Duff-Operators/tree/main)
 - [Adaptive Mean and Median Filters](https://github.com/1Guardian/Adaptive-Mean-and-Median-Filters)
 - [Map Segmentation](https://github.com/1Guardian/Map-Segmentation-by-Color)
+- [SLIC Superpixels](https://github.com/1Guardian/SLIC-Superpixels)
 
 ### C++ Parallelization and Multithreaded Algorithm
 - [Brute Forcing Branch and Bound (CPU Version)](https://github.com/1Guardian/Parallel-Brute-Force-Algorithm)
